@@ -1,4 +1,4 @@
-# Covidd-19 Tracker Live Link
+# Covid-19 Tracker Live Link
 https://covid-19-tracker-by-surbhi.web.app/
 
 # Getting Started with Create React App
